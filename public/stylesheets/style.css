@@ -1,8 +1,24 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+body {font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;}
+a { color: #00B7FF;}
+.container_j607Gz{padding-top:40px;}
+	
+#trumbowygContent{color: #000;}
+.trumbowyg-bold-button{color: #000;}
+#textEditor{height: 88%;}
+.simditor-toolbar ul li {
+	width: 20px;
 }
-
-a {
-  color: #00B7FF;
-}
+.simditor-toolbar ul li a{width: 20px;font-size: 12px;}
+#editor{width:100%; height: 300px; resize: none;}
+textarea{resize: none;}
+.container_qS01mK{padding: 10px;}
+#MainEditBody{border:1px solid #ccc;width: 70%;height: 90%;margin-left: 15%;margin-top: 5%;}
+#selectArea{width: 100%;height: 80%;float: left;margin-top: 20px;background: #fff;overflow-y: scroll;}
+#selectImg ul{list-style: none;padding: 10px;}
+#selectImg ul li {margin-bottom: 20px;}
+#selectImg ul li img{width: 94%;cursor: pointer;border: 1px solid #fff;}
+#selectImg ul li img:hover{border-color: #ccc}
+#selectWord{display: none;}
+#selectWord ul {list-style: none;padding: 10px;}
+#selectWord ul li{cursor: pointer;border: 1px solid #fff;padding-left: 10px;vertical-align: middle;}
+#selectWord ul li:hover{border-color:#ccc;}

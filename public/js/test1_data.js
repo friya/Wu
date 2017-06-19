@@ -1,0 +1,1 @@
+var portal_url=''; var c_data=c_data||{}; c_data.animations = []; c_data.timelines = [{"iType": 0, "element_id": "body_0f89f7f6b6c48d41", "data": {"type": 0, "t": {"rv": 0, "rp": 0, "wa": 0, "de": 0, "st": 1, "du": 1, "es": 0}, "d": {}}, "id": "M_40d7fc5d8d7a4542", "animations": []}]; c_data.actions = []
